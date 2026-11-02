@@ -1,5 +1,10 @@
 # MediSync – Smart Medicine Delivery System
 
+**Project Title:** MediSync – Smart Medicine Delivery System
+
+**Project Type:** Third Year (TY) Mini Project
+
+
 ## 📌 Project Description
 
 **MediSync** is an Arduino-based Smart Medicine Delivery System designed to improve medicine transportation between the Operation Theatre (OT) Unit and the Medical Store Unit in hospitals.
@@ -113,15 +118,8 @@ The transmitter sends medicine selection and quantity information to the receive
 - Addition of medicine stock management.
 - Integration with hospital management software.
 - Automated medicine transportation using a motorized mechanism.
-- Development of a centralized medicine tracking dashboard.
-
-## 👩‍💻 Project Team
-
-**Project Title:** MediSync – Smart Medicine Delivery System
-
-**Project Type:** Third Year (TY) Mini Project
-
-
+- Development of a centralized medicine tracking dashboard
+  
 ## 📌 Conclusion
 
 MediSync demonstrates how embedded systems and communication technologies can be used to improve medicine request and delivery processes in hospitals. By integrating Arduino, UART communication, LCD displays, push buttons, EEPROM, and buzzer alerts, the project provides a simple automated solution that can help reduce manual effort and support faster communication between hospital departments.
